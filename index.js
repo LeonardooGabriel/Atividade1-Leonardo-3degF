@@ -10,5 +10,4 @@ console.log(altura);
 console.log(cidade);
 console.log(massakg);
 
-
    
